@@ -74,6 +74,11 @@ cpp
 Copy
 Edit
 http://127.0.0.1:5000
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+
 ![Homepage](Screenshot%20(4027).png)
 
 ### 🚌 Booking Page
