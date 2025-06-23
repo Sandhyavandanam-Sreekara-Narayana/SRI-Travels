@@ -100,9 +100,9 @@ Edit
 
 ![Booking Confirmation](Screenshot%20(4030).png)
 
-### 📱 Thanking Page
+### 💳 Payment Page
 
-![Thanking Page](Screenshot%20(4031).png)
+![Payment Page](Screenshot%20(4032).png)
 
 ---
 
