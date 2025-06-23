@@ -13,6 +13,12 @@
 
 ---
 
+## 📖 Extended Description
+
+SRI Travels is a full-stack web application designed to simplify the travel booking process. Built using Flask and hosted on PythonAnywhere, it offers users a smooth and intuitive interface to search for travel options, book trips, and receive instant booking confirmations. The platform emphasizes real-time availability updates, responsive design for various devices, and a secure payment gateway (if implemented). This project demonstrates practical skills in web development, backend integration, and deployment, making it a great learning milestone in my journey as a developer. It also serves as a foundation for expanding into more complex travel management systems.
+
+---
+
 ## 🌐 Live Demo
 
 👉 [Click here to visit the live project](https://245124734054.pythonanywhere.com/)
@@ -68,16 +74,23 @@ cpp
 Copy
 Edit
 http://127.0.0.1:5000
-📸 Screenshots
-🏠 Homepage
+![Homepage](Screenshot%20(4027).png)
 
-🚌 Booking Page
+### 🚌 Booking Page
 
-🔍 Search Results
+![Booking Page](Screenshot%20(4028).png)
 
-✅ Booking Confirmation
+### 🔍 Search Results
 
-💳 Payment Page
+![Search Results](Screenshot%20(4029).png)
+
+### ✅ Booking Confirmation
+
+![Booking Confirmation](Screenshot%20(4030).png)
+
+### 💳 Payment Page 
+
+![Payment Page](Screenshot%20(4032).png) 
 
 📁 Project Structure
 cpp
