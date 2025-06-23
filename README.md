@@ -109,7 +109,7 @@ Edit
 ## 📞 Contact
 
 Developer: Sreekara Narayana  
-Email: your-email@example.com  
+Email: 245124734054@mvsrec.edu.in  
 GitHub: @Sandhyavandanam-Sreekara-Narayana
 
 ---
